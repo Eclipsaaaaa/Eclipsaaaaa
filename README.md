@@ -55,7 +55,7 @@
 <br clear="both">
 
 <h3 align="center">🟆 Activities 🟆</h3>
-<hr style="width:30%; margin: 0 auto;">
+<hr style="width:20%; margin: 0 auto;">
 
 ###
 
@@ -71,13 +71,13 @@
 <br clear="both">
 
 <h3 align="center">🟆 Socials 🟆</h3>
-<hr style="width:30%; margin: 0 auto;">
+<hr style="width:20%; margin: 0 auto;">
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="center" style="text-decoration: none;">
   <a href="https://www.linkedin.com/in/mar-leonard-anthony-vallada-740a88309/" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
