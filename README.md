@@ -55,7 +55,7 @@
 <br clear="both">
 
 <h3 align="center">🟆 Activities 🟆</h3>
-<hr style="width:20%; margin: 0 auto;">
+<hr style="width:10%; margin: 0 auto;">
 
 ###
 
@@ -71,7 +71,7 @@
 <br clear="both">
 
 <h3 align="center">🟆 Socials 🟆</h3>
-<hr style="width:20%; margin: 0 auto;">
+<hr style="width:10%; margin: 0 auto;">
 
 ###
 
