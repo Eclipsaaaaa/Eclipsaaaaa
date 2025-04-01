@@ -55,6 +55,7 @@
 <br clear="both">
 
 <h3 align="center">🟆 Activities 🟆</h3>
+</hr>
 
 ###
 
@@ -70,17 +71,28 @@
 <br clear="both">
 
 <h3 align="center">🟆 Socials 🟆</h3>
+</hr>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img onclick="window.location.href='https://www.linkedin.com/in/mar-leonard-anthony-vallada-740a88309/'" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img onclick="window.location.href='https://www.instagram.com/valhaee/'" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img onclick="window.location.href='https://www.facebook.com/valleooo'" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img onclick="window.location.href='mailto:valhalla.leo0@gmail.com'" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img onclick="window.location.href='https://discord.com/users/1139511267946672200'" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/mar-leonard-anthony-vallada-740a88309/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/valhaee/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <a href="https://www.facebook.com/valleooo">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+  <a href="mailto:valhalla.leo0@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://discord.com/users/1139511267946672200">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
 </div>
 
 ###
