@@ -7,6 +7,7 @@
 ###
 
 <h3 align="center">🟆 Tech Stacks 🟆</h3>
+<hr style="width:50%; margin: 0 auto;">
 
 ###
 
@@ -55,7 +56,7 @@
 <br clear="both">
 
 <h3 align="center">🟆 Activities 🟆</h3>
-</hr>
+<hr style="width:50%; margin: 0 auto;">
 
 ###
 
@@ -71,26 +72,26 @@
 <br clear="both">
 
 <h3 align="center">🟆 Socials 🟆</h3>
-</hr>
+<hr style="width:50%; margin: 0 auto;">
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mar-leonard-anthony-vallada-740a88309/">
+  <a href="https://www.linkedin.com/in/mar-leonard-anthony-vallada-740a88309/" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/valhaee/">
+  <a href="https://www.instagram.com/valhaee/" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="https://www.facebook.com/valleooo">
+  <a href="https://www.facebook.com/valleooo" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
   </a>
-  <a href="mailto:valhalla.leo0@gmail.com">
+  <a href="mailto:valhalla.leo0@gmail.com" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://discord.com/users/1139511267946672200">
+  <a href="https://discord.com/users/1139511267946672200" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
 </div>
