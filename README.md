@@ -7,7 +7,6 @@
 ###
 
 <h3 align="center">🟆 Tech Stacks 🟆</h3>
-<hr style="width:50%; margin: 0 auto;">
 
 ###
 
@@ -56,7 +55,7 @@
 <br clear="both">
 
 <h3 align="center">🟆 Activities 🟆</h3>
-<hr style="width:50%; margin: 0 auto;">
+<hr style="width:30%; margin: 0 auto;">
 
 ###
 
@@ -72,7 +71,7 @@
 <br clear="both">
 
 <h3 align="center">🟆 Socials 🟆</h3>
-<hr style="width:50%; margin: 0 auto;">
+<hr style="width:30%; margin: 0 auto;">
 
 ###
 
