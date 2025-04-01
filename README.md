@@ -63,6 +63,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Eclipsaaaaa&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graphs"  />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Eclipsaaaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1&custom_title=Statistic" height="150" alt="stats graph"  />
 </div>
 
@@ -78,7 +79,7 @@
 <br clear="both">
 
 <div align="center">
-  <table>
+  <table border="0" style="border-collapse: collapse">
     <tr>
       <td align="center">
         <a href="https://www.linkedin.com/in/mar-leonard-anthony-vallada-740a88309/">
