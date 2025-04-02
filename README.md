@@ -2,9 +2,13 @@
 
 ###
 
-<img align="left" height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNnbnQ4YWw0MHk4OHM4bGRwZ3c5dHIyb3J0NXAwam40bjQzZ3JrciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kjETcOXKdbYLS/giphy.gif"  />
+<div align="center">
+  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR4ZW5ncHRydGxxcGRhYXVnd3psMDlwZGE1ODN2emZzbXpsOTd5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <h3 align="center">🟆 Tech Stacks 🟆</h3>
 
